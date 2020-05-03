@@ -1,2 +1,2 @@
 # hello-world
-just some rand repos
+just some rand repo
